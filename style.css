@@ -157,7 +157,6 @@ header {
 }
 
 .works_content {
-    margin: 30vh 0;
     display: flex;
     justify-content: space-between;
 }
@@ -167,6 +166,7 @@ header {
 }
 
 .works_content img {
+    margin-top: 10vh;
     width: 80%;
 }
 
